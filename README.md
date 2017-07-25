@@ -1,2 +1,5 @@
-# youre-the-expert
-Presentation Given at WordCamp Columbus - 8/28/16
+Slides for a presentation on Child Themes at [WordCamp Columbus 2016](https://2016.columbus.wordcamp.org/session/dont-look-now-youre-the-expert/).
+
+Presented by Megan Morsie on 8/28/16. Created using reveal.js.
+
+[View Presentation](https://megabyterose.com/youre-the-expert/)
